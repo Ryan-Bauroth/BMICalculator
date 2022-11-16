@@ -3,6 +3,11 @@ import java.util.Scanner;
 
 //https://mkyong.com/java/how-to-round-double-float-value-to-2-decimal-points-in-java/ Hippity hoppity, your code is now my property
 
+/**
+ * Converts and calculates user's BMI based on height and weight
+ * @version 11/16/2022
+ * @author Ryfi
+ */
 public class BMICalculator {
     /** Uses a Scanner to prompt the user for info, process the
      * feet/inches conversion, calls the computeBMI method and prints the * correct information.
